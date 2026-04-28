@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" role="img" aria-labelledby="title desc">
+  <title id="title">XWCore logo</title>
+  <desc id="desc">Geometric XWCore wordmark with connected core symbol.</desc>
+  <defs>
+    <linearGradient id="signal" x1="24" y1="24" x2="136" y2="136" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2EC4B6"/>
+      <stop offset="1" stop-color="#2F80ED"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="160" rx="0" fill="none"/>
+  <g transform="translate(24 20)">
+    <path d="M24 16h32l64 88h-32L24 16Z" fill="url(#signal)"/>
+    <path d="M120 16H88L24 104h32l64-88Z" fill="#F3F7FA"/>
+    <path d="M72 104h28l20-28 20 28h28L132 56h-24L72 104Z" fill="#2EC4B6"/>
+    <circle cx="72" cy="60" r="10" fill="#101418" stroke="#F2C94C" stroke-width="6"/>
+    <circle cx="24" cy="16" r="7" fill="#2EC4B6"/>
+    <circle cx="120" cy="16" r="7" fill="#2F80ED"/>
+    <circle cx="24" cy="104" r="7" fill="#F3F7FA"/>
+    <circle cx="168" cy="104" r="7" fill="#2EC4B6"/>
+  </g>
+  <g fill="#F3F7FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">
+    <text x="220" y="96" font-size="56" letter-spacing="0">XWCore</text>
+  </g>
+  <text x="224" y="124" fill="#A9B7C2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="0">tecnologia conectada ao controle real</text>
+</svg>
+
