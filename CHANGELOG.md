@@ -2,6 +2,29 @@
 
 Este arquivo registra os fatos relevantes do projeto, dificuldades encontradas, decisoes tomadas e solucoes aplicadas.
 
+## 2026-04-29 15:02:04 -03:00
+
+### Fatos ocorridos
+
+- O usuario observou que nao faz sentido manter quatro prompts separados se o objetivo e usar o mesmo procedimento em todos os chats e projetos.
+- Foi definido que `D:\Dropbox\PROJETOS\_INSTRUCOES_CODEX.md` deve conter o prompt universal e as regras para todas as situacoes.
+
+### Dificuldades encontradas
+
+- A existencia de varios prompts poderia gerar duvida sobre qual usar.
+- O arquivo `PROMPTS_DE_INICIO.md` duplicava regras que deveriam estar centralizadas no arquivo global.
+
+### Solucoes aplicadas
+
+- Adicionado um prompt universal em `D:\Dropbox\PROJETOS\_INSTRUCOES_CODEX.md`.
+- Simplificado `PROMPTS_DE_INICIO.md` para ser apenas um atalho local que replica o prompt universal.
+- Atualizados `PROJECT_STATE.md` e `AGENTS.md` para apontar para o prompt universal como fonte principal.
+
+### Estado atual
+
+- Em qualquer chat, novo ou existente, basta usar o prompt universal que manda ler `D:\Dropbox\PROJETOS\_INSTRUCOES_CODEX.md`.
+- O arquivo global passou a ser a fonte central do sincronismo entre Kiit1 e Kiit.
+
 ## 2026-04-29 14:54:31 -03:00
 
 ### Fatos ocorridos
