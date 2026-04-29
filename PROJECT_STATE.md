@@ -1,6 +1,7 @@
 # Estado Atual do Projeto XWCore
 
 Ultima atualizacao: 2026-04-29 14:48:13 -03:00
+Ultima revisao de sincronismo: 2026-04-29 14:54:31 -03:00
 
 ## Resumo
 
@@ -29,6 +30,7 @@ Ao iniciar uma nova conversa ou trocar de computador:
 - `AGENTS.md`: instrucoes locais para Codex/Kiit.
 - `CHANGELOG.md`: registro operacional cronologico.
 - `PROJECT_STATE.md`: resumo rapido do estado atual.
+- `PROMPTS_DE_INICIO.md`: textos prontos para ativar o sincronismo Kiit/Kiit1 em novos chats.
 - `docs/`: documentacao institucional, planejamento, publicacao e projetos.
 - `site/`: site estatico publicado pelo Cloudflare Pages.
 
@@ -56,6 +58,6 @@ Ao iniciar uma nova conversa ou trocar de computador:
 
 - Atualizar `PROJECT_STATE.md` quando o estado atual ou pendencias mudarem.
 - Atualizar `CHANGELOG.md` ao concluir etapas, encontrar dificuldades ou tomar decisoes relevantes.
+- Usar `PROMPTS_DE_INICIO.md` para iniciar novos chats ou ativar sincronismo em chats existentes.
 - Nao registrar credenciais, tokens, chaves ou senhas.
 - Commitar e enviar alteracoes relevantes para o GitHub.
-

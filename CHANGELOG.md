@@ -2,6 +2,28 @@
 
 Este arquivo registra os fatos relevantes do projeto, dificuldades encontradas, decisoes tomadas e solucoes aplicadas.
 
+## 2026-04-29 14:54:31 -03:00
+
+### Fatos ocorridos
+
+- O usuario solicitou um arquivo com prompts prontos para iniciar novos chats ou ativar sincronismo em chats existentes.
+- O usuario perguntou se, ao informar "salvar para outros projetos", a regra fica automaticamente aberta para qualquer chat novo.
+
+### Dificuldades encontradas
+
+- As regras salvas em arquivos compartilhados nao sao ativadas automaticamente em novos chats.
+- Um novo chat precisa receber uma instrucao inicial para ler os arquivos compartilhados e locais do projeto.
+
+### Solucoes aplicadas
+
+- Criado `PROMPTS_DE_INICIO.md` com textos prontos para Kiit1, Kiit, chats existentes, novos projetos e registro de decisoes.
+- Atualizado `PROJECT_STATE.md`, `AGENTS.md` e `README.md` para referenciar `PROMPTS_DE_INICIO.md`.
+
+### Estado atual
+
+- Para ativar o sincronismo em qualquer chat novo, o usuario deve usar um dos prompts de `PROMPTS_DE_INICIO.md`.
+- As regras gerais continuam salvas em `D:\Dropbox\PROJETOS\_INSTRUCOES_CODEX.md` e dependem de leitura explicita pelo chat.
+
 ## 2026-04-29 14:48:13 -03:00
 
 ### Fatos ocorridos
