@@ -5,8 +5,8 @@
 - `xwcore.com` registrado no Cloudflare.
 - `xwcore.com.br` registrado no Registro.br.
 - `github.com/xwcore` existe, mas a conta atual não possui permissão para criar repositórios nessa organização.
-- `github.com/Alessandro-AJA/xwcore-oficial` será usado como repositório inicial público.
-- Organização futura recomendada: `github.com/xwcore-oficial`.
+- `github.com/xwcore-oficial` é a organização oficial em uso.
+- `github.com/xwcore-oficial/xwcore-site` é o repositório institucional inicial.
 
 ## Estratégia Recomendada
 
@@ -37,8 +37,7 @@ Vantagens:
 
 ## Configuração Inicial Sugerida
 
-- Repositório inicial: `Alessandro-AJA/xwcore-oficial`.
-- Repositório definitivo sugerido: `xwcore-oficial/xwcore-site`.
+- Repositório institucional: `xwcore-oficial/xwcore-site`.
 - Pasta de publicação: `site/`.
 - Branch de publicação: `main`.
 - Domínio principal: `xwcore.com`.
