@@ -1,7 +1,7 @@
 # Estado Atual do Projeto XWCore
 
 Ultima atualizacao: 2026-04-29 14:48:13 -03:00
-Ultima revisao de sincronismo: 2026-04-29 15:02:04 -03:00
+Ultima revisao de sincronismo: 2026-04-29 15:10:05 -03:00
 
 ## Resumo
 
@@ -23,6 +23,7 @@ Ao iniciar uma nova conversa ou trocar de computador:
 - Cloudflare Pages: projeto `xwcore-site`
 - Site principal: `https://xwcore.com`
 - Site com www: `https://www.xwcore.com`
+- Modelos globais Codex/Kiit: `D:\Dropbox\PROJETOS\_MODELOS_CODEX`
 
 ## Estrutura atual
 
@@ -59,5 +60,6 @@ Ao iniciar uma nova conversa ou trocar de computador:
 - Atualizar `PROJECT_STATE.md` quando o estado atual ou pendencias mudarem.
 - Atualizar `CHANGELOG.md` ao concluir etapas, encontrar dificuldades ou tomar decisoes relevantes.
 - Usar o prompt universal de `D:\Dropbox\PROJETOS\_INSTRUCOES_CODEX.md` em qualquer chat novo ou existente.
+- Para novos projetos, usar os templates de `D:\Dropbox\PROJETOS\_MODELOS_CODEX`.
 - Nao registrar credenciais, tokens, chaves ou senhas.
 - Commitar e enviar alteracoes relevantes para o GitHub.

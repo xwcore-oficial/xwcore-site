@@ -2,6 +2,33 @@
 
 Este arquivo registra os fatos relevantes do projeto, dificuldades encontradas, decisoes tomadas e solucoes aplicadas.
 
+## 2026-04-29 15:10:05 -03:00
+
+### Fatos ocorridos
+
+- O usuario aprovou a criacao de uma estrutura central de modelos para novos projetos.
+- Foi definido que novos projetos devem usar modelos a partir de `D:\Dropbox\PROJETOS\_MODELOS_CODEX`.
+
+### Dificuldades encontradas
+
+- Um novo projeto pode ainda nao possuir `AGENTS.md`, `PROJECT_STATE.md`, `CHANGELOG.md` ou `README.md`.
+- Sem modelos, Kiit1 e Kiit teriam que recriar a estrutura manualmente a cada projeto.
+
+### Solucoes aplicadas
+
+- Criada a pasta compartilhada `D:\Dropbox\PROJETOS\_MODELOS_CODEX`.
+- Criados modelos globais:
+  - `AGENTS.template.md`
+  - `PROJECT_STATE.template.md`
+  - `CHANGELOG.template.md`
+  - `README.template.md`
+  - `README.md` explicativo da pasta de modelos.
+- Atualizado `D:\Dropbox\PROJETOS\_INSTRUCOES_CODEX.md` para orientar o uso dos modelos em novos projetos.
+
+### Estado atual
+
+- Novos projetos dentro de `D:\Dropbox\PROJETOS` devem copiar/adaptar os modelos de `_MODELOS_CODEX` quando ainda nao tiverem estrutura operacional.
+
 ## 2026-04-29 15:02:04 -03:00
 
 ### Fatos ocorridos
