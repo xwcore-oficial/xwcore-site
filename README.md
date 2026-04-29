@@ -23,6 +23,7 @@ A XWCore nasce para desenvolver produtos conectados, automações locais e ferra
 - Módulo RF Wi-Fi com MQTT, 100% compatível com Home Assistant.
 - MonitorNFE para download de XML por CNPJ cadastrado e geração de DANFE.
 - DASN Simples Nacional para acompanhar faturamento do optante do Simples Nacional e demonstrativo DASN.
+- XW-Copy, gerenciador de backup para rotinas de cópia, organização e restauração de dados.
 
 ## Estrutura
 

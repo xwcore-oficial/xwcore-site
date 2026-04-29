@@ -1,11 +1,19 @@
 # Estado Atual do Projeto XWCore
 
 Ultima atualizacao: 2026-04-29 14:48:13 -03:00
-Ultima revisao de sincronismo: 2026-04-29 15:10:05 -03:00
+Ultima revisao de sincronismo: 2026-04-29 15:19:21 -03:00
 
 ## Resumo
 
 A XWCore possui base institucional, identidade visual inicial, site estatico, documentacao, repositorio GitHub oficial e publicacao inicial no Cloudflare Pages.
+
+Projetos em andamento:
+
+- Interfone IP Wi-Fi.
+- Modulo RF Wi-Fi MQTT.
+- MonitorNFE.
+- DASN Simples Nacional.
+- XW-Copy.
 
 ## Como Kiit1 e Kiit devem retomar este projeto
 
@@ -54,6 +62,7 @@ Ao iniciar uma nova conversa ou trocar de computador:
 3. Adicionar `xwcore.com.br` nos dominios personalizados do Cloudflare Pages.
 4. Adicionar `www.xwcore.com.br` nos dominios personalizados do Cloudflare Pages.
 5. Verificar acesso HTTPS dos quatro dominios.
+6. Detalhar escopo inicial do XW-Copy.
 
 ## Regras importantes
 

@@ -101,3 +101,30 @@ Oferecer visão simples e organizada do faturamento acumulado e das informaçõe
 - Criar telas de acompanhamento.
 - Gerar demonstrativos e relatórios.
 
+## XW-Copy
+
+### Descrição
+
+Gerenciador de backup para organizar, executar e acompanhar rotinas de cópia e restauração de dados.
+
+### Proposta de Valor
+
+Oferecer uma ferramenta simples e confiável para proteger arquivos importantes, padronizar rotinas de backup e reduzir risco de perda de dados em ambientes pessoais, técnicos ou de pequenas empresas.
+
+### Recursos Esperados
+
+- Cadastro de perfis de backup.
+- Seleção de origem e destino.
+- Execução manual ou agendada.
+- Histórico de execuções.
+- Validação de cópias realizadas.
+- Relatórios de sucesso, falha e arquivos ignorados.
+- Suporte futuro a destinos locais, rede e armazenamento externo.
+
+### Próximos Passos
+
+- Definir escopo da primeira versão.
+- Definir plataformas alvo.
+- Escolher estratégia de cópia e verificação.
+- Criar modelo de configuração dos perfis.
+- Projetar interface inicial para acompanhamento das rotinas.

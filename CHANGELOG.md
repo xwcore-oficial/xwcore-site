@@ -2,6 +2,31 @@
 
 Este arquivo registra os fatos relevantes do projeto, dificuldades encontradas, decisoes tomadas e solucoes aplicadas.
 
+## 2026-04-29 15:19:21 -03:00
+
+### Fatos ocorridos
+
+- O usuario solicitou a inclusao de um novo projeto em andamento: `XW-Copy`, gerenciador de backup.
+
+### Dificuldades encontradas
+
+- A grade visual do site estava originalmente ajustada para quatro projetos.
+- A documentacao institucional ainda nao contemplava backup/protecao de dados como linha de atuacao.
+
+### Solucoes aplicadas
+
+- Adicionado `XW-Copy` ao `README.md`.
+- Adicionada secao completa do `XW-Copy` em `docs/04-projetos.md`.
+- Atualizado `docs/03-planejamento-cronograma.md` para incluir a versao inicial do XW-Copy.
+- Atualizado `docs/01-conceito-institucional.md` para incluir backup e protecao de dados.
+- Atualizado o site institucional em `site/index.html` com novo card do XW-Copy.
+- Ajustada a grade de projetos em `site/styles.css` para comportar cinco cards de forma responsiva.
+- Atualizado `PROJECT_STATE.md` com a lista atual de projetos e pendencia de detalhar o escopo inicial do XW-Copy.
+
+### Estado atual
+
+- A XWCore passa a listar cinco projetos em andamento: Interfone IP Wi-Fi, Modulo RF Wi-Fi MQTT, MonitorNFE, DASN Simples Nacional e XW-Copy.
+
 ## 2026-04-29 15:10:05 -03:00
 
 ### Fatos ocorridos

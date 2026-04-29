@@ -47,6 +47,7 @@ Entregas:
 - Protótipo funcional do Módulo RF Wi-Fi MQTT.
 - Versão inicial do MonitorNFE.
 - Versão inicial do DASN Simples Nacional.
+- Versão inicial do XW-Copy para cadastro e execução de rotinas de backup.
 
 Critério de conclusão:
 
@@ -74,5 +75,5 @@ Critério de conclusão:
 1. Publicar a base institucional e o repositório.
 2. Consolidar o Interfone IP e o Módulo RF como linha de automação.
 3. Consolidar MonitorNFE e DASN como linha de ferramentas fiscais.
-4. Separar comunicação comercial por linhas de produto quando houver maturidade.
-
+4. Consolidar XW-Copy como ferramenta de proteção e organização de dados.
+5. Separar comunicação comercial por linhas de produto quando houver maturidade.

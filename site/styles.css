@@ -259,7 +259,7 @@ h3 {
 
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   border-top: 1px solid var(--line);
   border-left: 1px solid var(--line);
 }
@@ -343,10 +343,6 @@ footer {
     border-top: 1px solid var(--line);
   }
 
-  .project-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
-
   .repo-band {
     align-items: flex-start;
     flex-direction: column;
@@ -363,10 +359,6 @@ footer {
     width: 100%;
     justify-content: space-between;
     font-size: 0.88rem;
-  }
-
-  .project-grid {
-    grid-template-columns: 1fr;
   }
 
   .signal-panel {

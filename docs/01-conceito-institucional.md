@@ -2,7 +2,7 @@
 
 ## Essência
 
-A XWCore desenvolve soluções conectadas que aproximam hardware, automação residencial, integração fiscal e ferramentas de gestão do uso cotidiano. A empresa combina engenharia prática, software local-first e compatibilidade com ecossistemas abertos.
+A XWCore desenvolve soluções conectadas que aproximam hardware, automação residencial, integração fiscal, backup e ferramentas de gestão do uso cotidiano. A empresa combina engenharia prática, software local-first e compatibilidade com ecossistemas abertos.
 
 ## Posicionamento
 
@@ -42,5 +42,4 @@ A XWCore cria soluções de hardware, software e automação com foco em integra
 
 ## Descrição para Site
 
-A XWCore desenvolve produtos conectados e ferramentas digitais para automação, integração fiscal e gestão operacional. Nossos projetos unem hardware, software, MQTT, Home Assistant e sistemas de consulta fiscal em soluções práticas, documentadas e preparadas para uso real.
-
+A XWCore desenvolve produtos conectados e ferramentas digitais para automação, integração fiscal, backup e gestão operacional. Nossos projetos unem hardware, software, MQTT, Home Assistant, rotinas de proteção de dados e sistemas de consulta fiscal em soluções práticas, documentadas e preparadas para uso real.
