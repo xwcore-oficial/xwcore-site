@@ -39,3 +39,5 @@ Guia: `docs/06-cloudflare-pages.md`
 ## Registro operacional
 
 O andamento do projeto, dificuldades encontradas e solucoes aplicadas devem ser registrados em `CHANGELOG.md`.
+
+O estado atual resumido e as proximas pendencias ficam em `PROJECT_STATE.md`.

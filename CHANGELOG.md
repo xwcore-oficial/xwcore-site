@@ -2,6 +2,28 @@
 
 Este arquivo registra os fatos relevantes do projeto, dificuldades encontradas, decisoes tomadas e solucoes aplicadas.
 
+## 2026-04-29 14:48:13 -03:00
+
+### Fatos ocorridos
+
+- O usuario perguntou se a retomada entre Kiit1 e Kiit poderia usar um arquivo `PROJECT_STATE.md` em vez de depender apenas de ler instrucoes e changelog.
+- Foi definido que `PROJECT_STATE.md` sera o resumo rapido do estado atual do projeto.
+
+### Dificuldades encontradas
+
+- O historico de chat nao sincroniza automaticamente entre computadores.
+- O `CHANGELOG.md` e completo, mas pode ficar longo para retomada rapida.
+
+### Solucoes aplicadas
+
+- Criado `PROJECT_STATE.md` com resumo atual, links principais, infraestrutura, pendencias imediatas e protocolo de retomada.
+- Atualizado `AGENTS.md` para exigir manutencao de `PROJECT_STATE.md`.
+- Atualizado `README.md` para indicar a diferenca entre changelog operacional e estado atual resumido.
+
+### Estado atual
+
+- Kiit1 e Kiit devem usar `PROJECT_STATE.md` para retomada rapida e `CHANGELOG.md` para historico detalhado.
+
 ## 2026-04-29 14:41:14 -03:00
 
 ### Fatos ocorridos
