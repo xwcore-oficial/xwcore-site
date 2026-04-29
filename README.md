@@ -30,3 +30,8 @@ A XWCore nasce para desenvolver produtos conectados, automações locais e ferra
 - `site/` página institucional estática.
 - `site/assets/` logo, favicon e demais ativos visuais.
 
+## Publicação
+
+O caminho recomendado é publicar a pasta `site/` pelo Cloudflare Pages conectado ao repositório GitHub.
+
+Guia: `docs/06-cloudflare-pages.md`
