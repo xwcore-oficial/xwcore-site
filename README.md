@@ -35,3 +35,7 @@ A XWCore nasce para desenvolver produtos conectados, automações locais e ferra
 O caminho recomendado é publicar a pasta `site/` pelo Cloudflare Pages conectado ao repositório GitHub.
 
 Guia: `docs/06-cloudflare-pages.md`
+
+## Registro operacional
+
+O andamento do projeto, dificuldades encontradas e solucoes aplicadas devem ser registrados em `CHANGELOG.md`.
