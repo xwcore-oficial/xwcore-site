@@ -1,7 +1,7 @@
 # Estado Atual do Projeto XWCore
 
 Ultima atualizacao: 2026-04-29 14:48:13 -03:00
-Ultima revisao de sincronismo: 2026-04-29 15:19:21 -03:00
+Ultima revisao de sincronismo: 2026-04-29 15:21:35 -03:00
 
 ## Resumo
 
@@ -32,6 +32,7 @@ Ao iniciar uma nova conversa ou trocar de computador:
 - Site principal: `https://xwcore.com`
 - Site com www: `https://www.xwcore.com`
 - Modelos globais Codex/Kiit: `D:\Dropbox\PROJETOS\_MODELOS_CODEX`
+- Pasta do projeto XW-Copy: `D:\Dropbox\PROJETOS\XW-Copy`
 
 ## Estrutura atual
 
@@ -62,7 +63,7 @@ Ao iniciar uma nova conversa ou trocar de computador:
 3. Adicionar `xwcore.com.br` nos dominios personalizados do Cloudflare Pages.
 4. Adicionar `www.xwcore.com.br` nos dominios personalizados do Cloudflare Pages.
 5. Verificar acesso HTTPS dos quatro dominios.
-6. Detalhar escopo inicial do XW-Copy.
+6. Iniciar novo chat/projeto Codex para detalhar escopo inicial do XW-Copy.
 
 ## Regras importantes
 

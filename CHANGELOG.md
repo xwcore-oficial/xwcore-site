@@ -2,6 +2,31 @@
 
 Este arquivo registra os fatos relevantes do projeto, dificuldades encontradas, decisoes tomadas e solucoes aplicadas.
 
+## 2026-04-29 15:21:35 -03:00
+
+### Fatos ocorridos
+
+- O usuario solicitou a criacao da pasta do novo projeto `XW-Copy` em `D:\Dropbox\PROJETOS`.
+- O usuario informou que iniciara outro projeto no Codex.
+
+### Dificuldades encontradas
+
+- O projeto XW-Copy ainda nao possuia pasta propria nem arquivos operacionais para retomada em novo chat.
+
+### Solucoes aplicadas
+
+- Criada a pasta `D:\Dropbox\PROJETOS\XW-Copy`.
+- Criados arquivos iniciais do projeto:
+  - `AGENTS.md`
+  - `PROJECT_STATE.md`
+  - `CHANGELOG.md`
+  - `README.md`
+- Os arquivos foram preenchidos com estado inicial, pendencias e orientacoes para Kiit/Kiit1.
+
+### Estado atual
+
+- O XW-Copy esta pronto para ser aberto em novo chat do Codex usando o prompt universal definido em `D:\Dropbox\PROJETOS\_INSTRUCOES_CODEX.md`.
+
 ## 2026-04-29 15:19:21 -03:00
 
 ### Fatos ocorridos
